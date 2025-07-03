@@ -1,4 +1,4 @@
-                     Portfolio
+                    ## Portfolio
                 
 Quality Assurance Tester (Manual and Automation)
 Banbury, United Kingdom | +44 07868061116 | preethism22@gmail.com |

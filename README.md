@@ -1,5 +1,6 @@
 
 <html lang="en">
+  <body>
   <section>
     <h2>About Me</h2>
     <p>Detail-oriented and adaptable professional software tester, with 1.6 years of experience as a manual tester. Completed training in Software testing (manual & Automation) with hands-on project work experience. Proficient in API testing, Selenium and Agile. With expertise in building manual & automation frameworks in software testing and ensuring secure, user-centric solutions. Passionate about applying innovative testing strategies to improve software quality and support business objectives, driving efficiency and value within the company.</p>

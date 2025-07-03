@@ -2,7 +2,7 @@
 <html lang="en">
   <section>
     <h2>About Me</h2>
-    <p>I am a passionate and detail-oriented Quality Assurance Tester with experience in both manual and automation testing. I enjoy solving problems, ensuring software quality, and contributing to better user experiences.</p>
+    <p>Detail-oriented and adaptable professional software tester, with 1.6 years of experience as a manual tester. Completed training in Software testing (manual & Automation) with hands-on project work experience. Proficient in API testing, Selenium and Agile. With expertise in building manual & automation frameworks in software testing and ensuring secure, user-centric solutions. Passionate about applying innovative testing strategies to improve software quality and support business objectives, driving efficiency and value within the company.</p>
   </section>
 
   <section>
@@ -58,7 +58,6 @@
  <li> Developed Test Scripts to implement Features, Test Scenarios and step definition in Page Object Model frame work.</li>
  <li> Maintained the Selenium and Javascripts automation code resources in configuration management tools like GitHub/Bitbucket.</li>
  <li> Expertise in Core java and Object-oriented Concepts (Inheritance, Polymorphism and Collections).</li>
-      <li><strong>Mobile App QA:</strong> Performed manual and automation testing on a cross-platform mobile application.</li>
     </ul>
   </section>
 

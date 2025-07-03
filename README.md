@@ -1,12 +1,5 @@
 
 <html lang="en">
-  <header>
-  <p>Quality Assurance Tester (Manual and Automation)</p>
-   <p>Banbury, United Kingdom</p>
-  <p><a href="tel:+447868061116">+44 07868 061116</a> | <a href="mailto:preethism22@gmail.com">preethism22@gmail.com</a></p>
-   <p><a href="https://www.linkedin.com/in/preethi-sakaleshpura-manjunatha-7bb494288" target="_blank">LinkedIn Profile</a></p>
-  </header>
-
   <section>
     <h2>About Me</h2>
     <p>I am a passionate and detail-oriented Quality Assurance Tester with experience in both manual and automation testing. I enjoy solving problems, ensuring software quality, and contributing to better user experiences.</p>

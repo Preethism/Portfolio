@@ -75,11 +75,9 @@
 <li>Expertise in formulating, creating test cases, executing test cases and reviewing. </li>
 <li>Experience in Writing test cases and scenarios based on HLD.</li>
 <li>Expertise in defect root causes analysis and defect tracking.</li>
-      
-<p>Email: <a href="https://github.com/Preethism/Workbharath-Excel/blob/main/Work%20Bharath%20Web.xlsx"></a></p>
-
 </ul>
   </section>
+  
 
  <section>
     <h2>Global MahaParayan| Mobile Application| Bengaluru | 10-2020-4-2021</h2>
@@ -117,6 +115,7 @@
     <h2>Contact</h2>
     <p>Email: <a href="mailto:preethism22@gmail.com">preethism22@gmail.com</a></p>
     <p>Phone: <a href="tel:+447868061116">+44 07868 061116</a></p>
+    <p>Workbharath Project: <a href="https://github.com/Preethism/Workbharath-Excel/blob/main/Work%20Bharath%20Web.xlsx"></a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/preethi-sakaleshpura-manjunatha-7bb494288" target="_blank">View my profile</a></p>
   </section>
 

@@ -89,7 +89,7 @@
 
  <section>
     <h2>ADDITIONAL INFORMATION</h2>
-    <p>LANGUAGES – English.  </p>
+    <p>LANGUAGES – English.</p>
     <p>HOBBIES –Dance, Cooking, Writing Stories and Rhymes and Painting, Vlogger.</p>
    <p>Right to work in United Kingdom.</p>
   </section>

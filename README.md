@@ -75,7 +75,9 @@
 <li>Expertise in formulating, creating test cases, executing test cases and reviewing. </li>
 <li>Experience in Writing test cases and scenarios based on HLD.</li>
 <li>Expertise in defect root causes analysis and defect tracking.</li>
-<p> Project Link :</p> <a href = "https://github.com/Preethism/Workbharath-Excel/blob/main/Work%20Bharath%20Web.xlsx"></a>
+      
+<p>Email: <a href="https://github.com/Preethism/Workbharath-Excel/blob/main/Work%20Bharath%20Web.xlsx"></a></p>
+
 </ul>
   </section>
 

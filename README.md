@@ -115,7 +115,6 @@
     <h2>Contact</h2>
     <p>Email: <a href="mailto:preethism22@gmail.com">preethism22@gmail.com</a></p>
     <p>Phone: <a href="tel:+447868061116">+44 07868 061116</a></p>
-    <p>Workbharath Project: <a href="https://github.com/Preethism/Workbharath-Excel/blob/main/Work%20Bharath%20Web.xlsx"></a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/preethi-sakaleshpura-manjunatha-7bb494288" target="_blank">View my profile</a></p>
   </section>
 

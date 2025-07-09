@@ -36,7 +36,7 @@
     </ul>
   </section>
 
-   <section>
+<section>
     <h2>Soft Skills:</h2>
     <ul>
       <li>Effective Communication | Problem solving | Time Management | Adaptability | Stakeholder Management | Team Collaboration | Active Listening | Detail oriented | Proactive Mindset</li>
@@ -60,6 +60,38 @@
  <li> Maintained the Selenium and Javascripts automation code resources in configuration management tools like GitHub/Bitbucket.</li>
  <li> Expertise in Core java and Object-oriented Concepts (Inheritance, Polymorphism and Collections).</li>
     </ul>
+  </section>
+
+  <section>
+    <h2>Global MahaParayan| Mobile Application| Bengaluru | 10-2020-4-2021</h2>
+    <ul>
+      <li>MahaParayan is a global spiritual movement where devotees of Shirdi Sai Baba read the Shri Sai Satcharitra in a disciplined manner every week. This sacred practice is believed to bring peace, positivity, and Baba’s divine grace into our lives.</li>
+<li>	Handling Devotees registration, requests to schedule appointment for MahaParayan and recording sufficient information in devotees and Parayana chapters data.</li>
+<li>	Played a KEY role in creating test plan for the project, conceiving of the testing strategy and the approach.</li>
+<li>	Being the sole QA engineer, managing the complete software delivery life cycle, working alongside Product owners, from planning phase to the deployment phase.</li>
+<li>	Created various project specific valuable assets such as knowledge transfer documents, test plan, defect summery reports.</li>
+<li>	Hands on experience on all levels of testing from Integration, Regression, Smoke, Sanity, Functional testing, Integration Testing, System Testing to UAT.</li>
+<li>	Developed Test cases to implement Features, Test Scenarios and steps.</li>
+ </ul>
+  </section>
+
+  <section>
+    <h2>EDUCATION</h2>
+    <p>B.E, Computer Science and Engineering </p>
+    <p>Sri Venkateswara College of Engineering, Bengaluru, Karnataka, India | October 2012- June 2015</p>
+  </section>
+
+   <section>
+    <h2>TRAINING & CERTIFICATION </h2>
+    <p>Software Testing Automation Training | Wizcore | London | 2025 </p>
+    <p>Core Java | Uttara Institute |Bengaluru | 2015</p>
+  </section>
+
+ <section>
+    <h2>ADDITIONAL INFORMATION</h2>
+    <li>LANGUAGES – English.  </li>
+    <p>HOBBIES –Dance, Cooking, Writing Stories and Rhymes and Painting, Vlogger.</p>
+   <p>Right to work in United Kingdom.</p>
   </section>
 
   <section>
